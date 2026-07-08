@@ -1,0 +1,2 @@
+# Paginadetecnologia
+Principais conseitos tecnologicos
